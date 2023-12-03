@@ -1,0 +1,325 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+}
+
+nav.one-navigation{
+    width: 1309px;
+    display: flex;
+    height: 40px;
+    background-color: #458b16;
+}
+
+.facebook-logo-spanner{
+    font-size: 18pt;
+}
+
+.linkedin-logo-spanner,
+.instagram-logo-anchor-tag{
+    font-size: 19pt;
+}
+
+.one-navigation{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.linkedin-logo-divison,
+.instagram-logo-division{
+    margin-left: 20px;
+}
+
+.add-caregiver-anchor-tag{
+    text-decoration: none;
+}
+
+.become-caregiver-text{
+    color: white;
+    padding-left: 5px;
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+}
+
+.add-caregiver-division{
+    margin-left: 500px;
+    margin-top: 5px;
+}
+
+.telephone-caregiver-anchor-tag{
+    text-decoration: none;
+}
+
+.telephone-caregiver-division{
+   margin-top: 5px;
+   margin-left: 50px; 
+}
+
+.telephone-caregiver-spanner-text{
+    color: white;
+    padding-left: 5px;
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+}
+
+.twenty-four-bar-seven-button{
+    width: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #1b80ff;
+    color: white;
+    font-size: 13px;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    height: 25px;
+}
+
+.twenty-bar-seven-division{
+    margin-top: 3px;
+    margin-left: 15px;
+}
+
+.contact-us-anchor-tag{
+    text-decoration: none;
+}
+
+.contact-us-division{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.contact-us-text{
+    color:white;
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.second-navbar{
+    width: 100%;
+    height: 150px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    background-color:rgb(255, 255, 255);    
+}
+
+.home-care-img{
+    width: 195px;
+    height: 145px;
+}
+
+.home-care-img-second-nav{
+    margin-left: 25px;
+}
+
+.services-dropdown-menu,
+.apllies-for-every-spanner{
+    font-size: 15pt;
+    font-weight: 500;
+    font-family: Poppins, sans-serif;
+}
+
+.services-dropdown-menu-division{
+    margin-top: 60px;
+    cursor: pointer;
+    margin-left: 150px;
+}
+
+.apllies-for-every-division{
+    margin-top: 60px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.get-started-button{
+    width: 160px;
+    background-color: #1b80ff;
+    color: white;
+    font-family: Poppins, sans-serif;
+    font-size: 11pt;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 5px;
+    border-color: transparent;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.first-page{
+    background: linear-gradient(rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), url("https://www.ehcus.com/wp-content/uploads/2022/05/Home-Care-Manhattan.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.header-text-first-page{
+    font-size: 30pt;
+    font-family: Poppins, sans-serif;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-left: 25px;
+    padding-top: 85px;
+    width: 600px;
+}
+
+.horizontal-line{
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 29px;
+    height: 2px;
+    background-color: white;
+    border-color: transparent;
+}
+
+.next-sub-header-first-page{
+    font-size: 20pt;
+    color:white;margin-top: 40px;margin-left: 25px;
+    width: 350px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: Poppins, sans-serif;
+}
+
+.second-page{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(238, 238, 238);
+}
+
+.text-which-is-dark-one{
+    font-size: 14pt;
+    color: rgb(41, 41, 41);
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+}
+
+.text-which-is-next-to-dark-text{
+    color: rgb(41, 41, 41);
+    font-size: 14pt;
+    font-family: Poppins, sans-serif;
+}
+
+.text-of-second-page{
+    text-align: center;
+    width: 1050px;
+    line-height: 30px;
+    padding-top: 20px;
+    margin-left: 130px;
+}
+
+.header-of-third-page{
+    font-family: Poppins, sans-serif;
+    color: rgb(48, 48, 48);
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.conatiner-third-page-one > .spanner-text-container{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    color: rgb(71, 71, 71);
+}
+
+.conatiner-third-page-one{
+    margin-left: 33px;
+    line-height: 30px;
+    margin-top: 20px;
+    width: 608px;
+}
+
+.elder-blue{
+    font-family: Poppins, sans-serif;
+    color:#1b80ff;
+    font-size: 14pt;
+    margin-left: 4px;
+    font-weight: 600;
+}
+
+.home-care-green{
+    font-family: Poppins, sans-serif;
+    color:#458b16;
+    font-size: 14pt;
+    margin-right: 05px;
+    font-weight: 600;
+}
+
+.spanner-text-container{
+    font-family: Poppins, sans-serif;
+    font-size: 14pt;
+    color: rgb(71, 71, 71);
+}
+
+.one-side{
+    margin-top: 25px;
+}
+
+.full-container{
+    display: flex;
+}
+
+.img-caregiver-one-img{
+    width: 600px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 5px;
+    box-shadow: 20px 20px 20px 20px rgba(39, 39, 39, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img-caregier-one-img{
+    width: 600px;
+    height: 700px;
+    margin-top: 100px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 20px 20px 20px 20px rgba(39, 39, 39, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.second-full-division{
+    display: flex;
+}
+
+.paragraph-type-ofsenior-home-care{
+    font-family: Poppins, sans-serif;
+    color: rgb(48, 48, 48);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin-top: 120px;
+}
+
+.text-division-spanner-used-to-write-text{
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.div-containing-spanner-elements{
+    margin-left: 40px;
+    width: 640px;
+    margin-top: 25px ;
+}
+
+.text-paragraph-Our-senior-home-care-services-include{
+    font-size: 15pt;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.font-arrow-right-color{
+    font-size: 20pt;
+    margin-left: 8px;
+    margin-top: 30px;
+}
